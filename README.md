@@ -8,7 +8,6 @@ First, self-supervised learning by MoBY training on Swin Transformer.
 
 Then, use Mask R-CNN with Feature Pyramid Network for object detection.
 
-
 # Links
 
 This repo contains only self supervised training of Swin Transformer backbone with MoBY.
@@ -62,3 +61,11 @@ With 4 V100 GPUs and 92 epochs, we have:
 | 90    | 8.9094 |
 | 100   | 8.6448 |
 | 110   | 8.4562 |
+
+# Model Files
+
+| Epoch Number | File                                                                                    |
+| ------------ | --------------------------------------------------------------------------------------- |
+| 40           | [Here](https://drive.google.com/file/d/1B8xppe3_VANnF-pCcOuYAKvp5Hn3IuS1/view?usp=sharing) |
+| 92           | [Here](https://drive.google.com/file/d/1zJeU2W3rldBPKqTVT_EW97apZ7Hi-aC6/view?usp=sharing) |
+| 114          | [Here](https://drive.google.com/file/d/1ywBE5f2BdNaA2qjXdzooTPA6ekYm9ROU/view?usp=sharing) |
