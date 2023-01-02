@@ -8,6 +8,8 @@ First, self-supervised learning by MoBY training on Swin Transformer.
 
 Then, use Mask R-CNN with Feature Pyramid Network for object detection.
 
+To evaluate Swin-Transformer better, I did ResNet-50 backbone training with self-supervised learning algorithm DINO, and apply Mask R-CNN with FPN.
+
 # Links
 
 This repo contains only self supervised training of Swin Transformer backbone with MoBY.
