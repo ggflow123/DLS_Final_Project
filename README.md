@@ -64,8 +64,9 @@ With 4 V100 GPUs and 92 epochs, we have:
 
 # Model Files
 
-| Epoch Number | File                                                                                    |
-| ------------ | --------------------------------------------------------------------------------------- |
-| 40           | [Here](https://drive.google.com/file/d/1B8xppe3_VANnF-pCcOuYAKvp5Hn3IuS1/view?usp=sharing) |
-| 92           | [Here](https://drive.google.com/file/d/1zJeU2W3rldBPKqTVT_EW97apZ7Hi-aC6/view?usp=sharing) |
-| 114          | [Here](https://drive.google.com/file/d/1ywBE5f2BdNaA2qjXdzooTPA6ekYm9ROU/view?usp=sharing) |
+| Epoch Number                            | File                                                                                    |
+| --------------------------------------- | --------------------------------------------------------------------------------------- |
+| 40                                      | [Here](https://drive.google.com/file/d/1B8xppe3_VANnF-pCcOuYAKvp5Hn3IuS1/view?usp=sharing) |
+| 92                                      | [Here](https://drive.google.com/file/d/1zJeU2W3rldBPKqTVT_EW97apZ7Hi-aC6/view?usp=sharing) |
+| 114                                     | [Here](https://drive.google.com/file/d/1ywBE5f2BdNaA2qjXdzooTPA6ekYm9ROU/view?usp=sharing) |
+| 100 (used in comparison with ResNet-50) | [Here](https://drive.google.com/file/d/1rIkJOV_BWvT0J55ffKSVgOPZTMsW8NV5/view?usp=sharing) |
